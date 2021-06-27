@@ -7,10 +7,10 @@ hide_description: true
 permalink: /
 ---
 
-![tianming.gif](/assets/images/previous_projects/tianming.gif){:class="img-projects"}
-![kayton.gif](/assets/images/previous_projects/klayton.gif){:class="img-projects"}
-![dewang.gif](/assets/images/previous_projects/dewang.gif){:class="img-projects"}
-![grace_caroline.gif](/assets/images/previous_projects/grace_caroline.gif){:class="img-projects"}
+![team-1.jpg](/assets/images/previous_projects/team-1.jpg){:class="img-projects"}
+![team-2.gif](/assets/images/previous_projects/team-2.gif){:class="img-projects"}
+![team-4.gif](/assets/images/previous_projects/team-4.gif){:class="img-projects"}
+![team-8.gif](/assets/images/previous_projects/team-8.gif){:class="img-projects"}
 
 ## Course Description
 

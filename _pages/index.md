@@ -7,10 +7,10 @@ hide_description: true
 permalink: /
 ---
 
-![team-1.jpg](/assets/images/previous_projects/team-1.jpg){:class="img-projects"}
-![team-2.gif](/assets/images/previous_projects/team-2.gif){:class="img-projects"}
-![team-4.gif](/assets/images/previous_projects/team-4.gif){:class="img-projects"}
-![team-8.gif](/assets/images/previous_projects/team-8.gif){:class="img-projects"}
+[![team-1.jpg](/assets/images/previous_projects/team-1.jpg){:class="img-projects"}](https://cis565-fall-2020.github.io/projects/)
+[![team-2.gif](/assets/images/previous_projects/team-2.gif){:class="img-projects"}](https://cis565-fall-2020.github.io/projects/)
+[![team-4.gif](/assets/images/previous_projects/team-4.gif){:class="img-projects"}](https://cis565-fall-2020.github.io/projects/)
+[![team-8.gif](/assets/images/previous_projects/team-8.gif){:class="img-projects"}](https://cis565-fall-2020.github.io/projects/)
 
 ## Course Description
 
@@ -48,15 +48,27 @@ For a course more focused on GPU architecture without graphics, see Joe Devietti
 
 ### [Shehzan Mohammed](https://www.linkedin.com/in/shehzan-mohammed-a21a783a/){:target="_blank"} mza@seas.upenn.edu
 
-Office Hours:
-
-* Monday: 5-6PM (US Eastern) + Up to 30 minutes after class ends
-* Wednesday: 5-6PM (US Eastern) + Up to 30 minutes after class ends
-* Sunday: 10-11AM (US Eastern)
+Office Hours: TBD
 
 Changes to office hour schedule will be made on the CIS 565 Calendar and notified through Piazza.
 
 ![Shehzan Mohammed](/assets/images/headshots/shehzan_mohammed.jpg){:class="img-headshots"}
+
+## Teaching Assistants
+
+### [Janine Liu](https://www.linkedin.com/in/kangning-li-46515553/){:target="_blank"}
+
+Office Hours: TBD
+
+![Janine Liu](/assets/images/headshots/janine_liu.jpg){:class="img-headshots"}
+
+### [Liam Dugan](https://www.linkedin.com/in/liam-dugan/){:target="_blank"}
+
+Office Hours: TBD
+
+![Liam Dugan](/assets/images/headshots/liam_dugan.jpg){:class="img-headshots"}
+
+Changes to office hour schedule will be made on the CIS 565 Calendar and notified through Piazza.
 
 ## Course Advisor
 

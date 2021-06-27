@@ -7,10 +7,6 @@ hide_description: true
 permalink: /syllabus/
 ---
 
-## [Schedule](https://1drv.ms/x/s!AiLXbdZHgbemhecoCrwVxEQCS2CcEg){:target="_blank"} (Open in new tab)
-
-<iframe width="1200" height="900" frameborder="5" scrolling="yes" src="https://onedrive.live.com/embed?resid=A6B78147D66DD722%2195144&authkey=%21ADKjauihO1ZvR1g&em=2&wdAllowInteractivity=False&Item='Schedule'!A1%3AF45&wdInConfigurator=True"></iframe>
-
 ## Course Topics
 
 1. Introduction to CUDA

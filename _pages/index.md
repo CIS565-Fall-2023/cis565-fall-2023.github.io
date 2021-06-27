@@ -1,8 +1,8 @@
 ---
 layout: page
-title: CIS 565 GPU Programming and Architecture <br> Fall 2020
+title: CIS 565 GPU Programming and Architecture <br> Fall 2021
 description: >
-  Website for CIS 565 GPU Programming and Architecture Fall 2020 at the University of Pennsylvania
+  Website for CIS 565 GPU Programming and Architecture Fall 2021 at the University of Pennsylvania
 hide_description: true
 permalink: /
 ---
@@ -11,8 +11,6 @@ permalink: /
 ![kayton.gif](/assets/images/previous_projects/klayton.gif){:class="img-projects"}
 ![dewang.gif](/assets/images/previous_projects/dewang.gif){:class="img-projects"}
 ![grace_caroline.gif](/assets/images/previous_projects/grace_caroline.gif){:class="img-projects"}
-
-## Click here for [CIS 565 Fall 2021](https://cis565-fall-2021.github.io)
 
 ## Course Description
 
@@ -26,11 +24,7 @@ This is a project-intensive course with significant coding, writing, and present
 
 For a course more focused on GPU architecture without graphics, see Joe Devietti's [CIS 601](https://www.cis.upenn.edu/~devietti/classes/cis601-spring2017/){:target="_blank"} (no longer offered at Penn).
 
-## COVID-19 and Plans for Fall 2020 Semester
-
-Please visit the [COVID-19](/covid-19/) page to read more about how CIS 565 will continue to provide the best learning experience possible in Fall 2020 as we switch to remote learning.
-
-If you have registered as a student for the course, or plan to, please complete this **required survey: [CIS 565 Fall 2020 Student Survey](https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAMAALDIch9UNFhVQ1hTREZEWUIzVkpDUk83VkNPVU5MRy4u){:target="_blank"}**.
+**If you have registered as a student for the course, or plan to, please complete this required survey: [CIS 565 Fall 2021 Student Survey](https://forms.office.com/r/Eh3U0WwP12){:target="_blank"}**.
 
 ## Prerequisites
 
@@ -46,8 +40,8 @@ If you have registered as a student for the course, or plan to, please complete 
 
 ## Github, Schedule, Class Forum, and LinkedIn
 
-* [**Github**](https://github.com/CIS565-Fall-2020){:target="_blank"}: fork your repos from here
-* [**Piazza**](https://piazza.com/upenn/fall2020/cis565){:target="_blank"}: Class forum
+* [**Github**](https://github.com/CIS565-Fall-2021){:target="_blank"}: fork your repos from here
+* [**Piazza**](https://piazza.com/upenn/fall2021/cis565){:target="_blank"}: Class forum
 * [**LinkedIn Group**](http://www.linkedin.com/groups/GPU-Programming-Architecture-6540935){:target="_blank"}: for networking with current and previous course students
 
 ## Lecturer
@@ -63,20 +57,6 @@ Office Hours:
 Changes to office hour schedule will be made on the CIS 565 Calendar and notified through Piazza.
 
 ![Shehzan Mohammed](/assets/images/headshots/shehzan_mohammed.jpg){:class="img-headshots"}
-
-## Teaching Assistant
-
-### [Gary Li](https://www.linkedin.com/in/kangning-li-46515553/){:target="_blank"} gary@cesium.com
-
-Office Hours:
-
-* Tuesday: 6-7PM (US Eastern)
-* Thursday: 7-8PM (US Eastern)
-* Saturday: 10-11AM (US Eastern)
-
-Changes to office hour schedule will be made on the CIS 565 Calendar and notified through Piazza.
-
-![Gary Li](/assets/images/headshots/gary_li.jpg){:class="img-headshots"}
 
 ## Course Advisor
 
@@ -98,11 +78,12 @@ Changes to office hour schedule will be made on the CIS 565 Calendar and notifie
 **Other useful tools and material:**
 
 * [Ray Tracing in One Weekend](https://github.com/RayTracing/InOneWeekend) (Free PDF + Github)
+* [NVIDIA GTC On-Demand](https://www.nvidia.com/en-us/on-demand/)
 * [NVIDIA GDC 2019 Courses](https://1drv.ms/f/s!AiLXbdZHgbemhdpxaqFXjSRTkshtPA) (Mostly Real Time Ray Tracing)
 * [Machine Learning by Andrew Ng](https://www.coursera.org/learn/machine-learning) (Coursera free)
 * [Deep Learning Book](https://www.deeplearningbook.org/) (Free to read in HTML)
 * [CUDA Programming Guide](https://docs.nvidia.com/cuda/cuda-c-programming-guide/index.html)
-* [All previous CIS 565](https://cis565-fall-2019.github.io) (https://cis565-fall-201X.github.io)
+* [All previous CIS 565](https://cis565-fall-2020.github.io) (https://cis565-fall-201X.github.io)
 
 ## Grading
 
@@ -124,6 +105,10 @@ If you would like to use code not written by you for this class, please run it b
 
 If you think you need to ask permission, you should ask. We will most likely approve all reasonable requests.
 
+## Penn Engineering COVID-19 Impact and Announcements
+
+Please visit the [COVID-19](https://www.seas.upenn.edu/coronavirus/) for information on Penn Engineering's announcements and information about COVID-19 impact and procedures.
+
 ## Acknowledgments
 
 [Joe Kider](http://www.josephkider.com/), [Gary Katz](http://www.linkedin.com/pub/gary-katz/3/a40/a1b), and [Suresh Venkatasubramanian](http://www.cs.utah.edu/~suresh/web/) taught this course before me.
@@ -140,7 +125,6 @@ All former TAs have helped shape this course:
 Previous students have provided significant course feedback including:
 
 * [Xing Du](http://www.linkedin.com/pub/xing-du/3a/626/a23)
-* [Karl Li](http://www.yiningkarlli.com/demoreel/)
 * [Ian Lilley](http://ianlilley.wordpress.com/).
 
 Many passionate folks in our field have also provided course input:

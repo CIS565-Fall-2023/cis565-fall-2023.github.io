@@ -121,6 +121,14 @@ If you think you need to ask permission, you should ask. We will most likely app
 
 Please visit the [COVID-19](https://www.seas.upenn.edu/coronavirus/) for information on Penn Engineering's announcements and information about COVID-19 impact and procedures.
 
+### COVID Protocols for CIS 565
+
+* Classrooms will be operating under normal, pre-COVID capacity during the Fall 2021 term.
+* CIS 565 will be in person and lecture recordings will be made available within 24 hours after the lecture.
+* In accordance with University policy, **students are required wear a face mask in the classroom and to all in-person office hours**. Students who do not wear a mask in class may be required to leave the classroom.
+  * As a consequence of this requirement, please keep eating and drinking within the classroom to a minimum.
+* If a student (or staff) tests positive at any point during the semester, and there is probable risk of spread, a portion of the students, if not the entire class may be moved online-only temporarily. You will be notified through Piazza.
+
 ## Acknowledgments
 
 [Joe Kider](http://www.josephkider.com/), [Gary Katz](http://www.linkedin.com/pub/gary-katz/3/a40/a1b), and [Suresh Venkatasubramanian](http://www.cs.utah.edu/~suresh/web/) taught this course before me.

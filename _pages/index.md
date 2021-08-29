@@ -156,7 +156,7 @@ Many passionate folks in our field have also provided course input:
 * Wolfgang Engel, ([@wolfgangengel](https://twitter.com/wolfgangengel){:target="_blank"})
 * Mikkel Gjoel, ([@pixelmager](https://twitter.com/pixelmager){:target="_blank"})
 * Dominik Lazarek, ([@Omme](https://twitter.com/Omme){:target="_blank"})
-* Emil Persson, ([@_Humus_](https://twitter.com/_Humus_){:target="_blank"})
+* Emil Persson, ([@\_Humus\_](https://twitter.com/_Humus_){:target="_blank"})
 * Sebastien Vandenberghe ([@sebavanmicrosof](https://github.com/sebavanmicrosof){:target="_blank"})
 * [Chrome GPU Team](https://www.chromium.org/developers/design-documents/chromium-graphics){:target="_blank"}, which includes many former CIS 565 Alumni.
 

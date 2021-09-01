@@ -48,7 +48,9 @@ For a course more focused on GPU architecture without graphics, see Joe Devietti
 
 ### [Shehzan Mohammed](https://www.linkedin.com/in/shehzan-mohammed-a21a783a/){:target="_blank"} mza@seas.upenn.edu
 
-Office Hours: TBD
+Office Hours:
+* Monday and Wednesday: 4:30pm - 5:15pm, + 30 minutes after end of class
+* Sunday: 10:00am - 11:00am (Zoom)
 
 Changes to office hour schedule will be made on the CIS 565 Calendar and notified through Piazza.
 
@@ -56,15 +58,18 @@ Changes to office hour schedule will be made on the CIS 565 Calendar and notifie
 
 ## Teaching Assistants
 
-### [Janine Liu](https://www.linkedin.com/in/kangning-li-46515553/){:target="_blank"}
+### [Janine Liu](https://www.linkedin.com/in/kangning-li-46515553/){:target="_blank"} jliu99@seas.upenn.edu
 
-Office Hours: TBD
+Office Hours:
+* Tuesday and Thursday: 12:00pm - 1:00pm
+* Saturday: 10:00am - 11:00am (Zoom)
 
 ![Janine Liu](/assets/images/headshots/janine_liu.jpg){:class="img-headshots"}
 
-### [Liam Dugan](https://www.linkedin.com/in/liam-dugan/){:target="_blank"}
+### [Liam Dugan](https://www.linkedin.com/in/liam-dugan/){:target="_blank"} ldugan@seas.upenn.edu
 
-Office Hours: TBD
+Office Hours:
+* Tuesday and Thursday: 5:00pm - 6:30pm
 
 ![Liam Dugan](/assets/images/headshots/liam_dugan.jpg){:class="img-headshots"}
 

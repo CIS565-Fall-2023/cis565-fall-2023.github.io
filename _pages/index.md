@@ -69,7 +69,7 @@ Office Hours:
 ### [Liam Dugan](https://www.linkedin.com/in/liam-dugan/){:target="_blank"} ldugan@seas.upenn.edu
 
 Office Hours:
-* Tuesday and Thursday: 5:00pm - 6:30pm
+* Tuesday and Thursday: 5:00pm - 6:30pm (Moore 103 (SIG Lab))
 
 ![Liam Dugan](/assets/images/headshots/liam_dugan.jpg){:class="img-headshots"}
 

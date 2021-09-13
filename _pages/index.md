@@ -49,7 +49,7 @@ For a course more focused on GPU architecture without graphics, see Joe Devietti
 ### [Shehzan Mohammed](https://www.linkedin.com/in/shehzan-mohammed-a21a783a/){:target="_blank"} mza@seas.upenn.edu
 
 Office Hours:
-* Monday and Wednesday: 4:30pm - 5:15pm, + 30 minutes after end of class
+* Monday and Wednesday: 4:30pm - 5:15pm, + 30 minutes after end of class (Towne 337)
 * Sunday: 10:00am - 11:00am (Zoom)
 
 Changes to office hour schedule will be made on the CIS 565 Calendar and notified through Piazza.

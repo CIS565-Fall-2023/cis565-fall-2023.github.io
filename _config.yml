@@ -46,8 +46,8 @@ menu:
     url:               /syllabus/
   - title:             Course Projects
     url:               https://github.com/CIS565-Fall-2021/
-#  - title:             Student Work
-#    url:               /projects/
+  - title:             Student Work
+    url:               /projects/
   - title:             Piazza - Class Forum
     url:               https://piazza.com/upenn/fall2021/cis565
   - title:             Hardware and Software Setup

@@ -18,7 +18,7 @@ permalink: /projects/
 <!--![team-3.png](/assets/images/projects/team-3.png){:class="img-final-projects"}-->
 * [**Improving Frame Rates with ML-based Frame Interpolation**](https://github.com/adityahota/CIS565-Final-Project-SlowMo) -- [Aditya Hota](https://github.com/adityahota), [Kaan Erdogmus](https://github.com/), [Richard Chen](https://github.com/LaurelinTheGold)
 
-<!--![team-4.gif](/assets/images/projects/team-4.gif){:class="img-final-projects"}-->
+![team-4.png](/assets/images/projects/team-4.png){:class="img-final-projects"}
 * [**Position-Based Multi-Agent Dynamics on WebGPU**](https://github.com/wayne-wu/webgpu-crowd-simulation) -- [Matthew Elser](https://github.com/mattelser), [Ashley Alexander Lee](https://github.com/asalexan), [Wayne Wu](https://github.com/wayne-wu)             
 
 <!--![team-5.png](/assets/images/projects/team-5.png){:class="img-final-projects"}-->

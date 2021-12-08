@@ -25,7 +25,7 @@ permalink: /projects/
 * [**Fast Volume Rendering with Spatiotemporal Reservoir Resampling**](https://github.com/TheSmokeyGuys/Volume-ReSTIR-Vulkan) -- [Zhihao Ruan](https://github.com/shineyruan), [Shubham Sharma](https://github.com/codeplay9800), [Raymond Yang](https://github.com/UserRYang)        
 
 ![team-6.png](/assets/images/projects/team-6.png){:class="img-final-projects"}
-* [**WebGPU based glTF Viewer**](https://github.com/cis565-team6/webgpu-gltf-viewer) -- [Zixin Zhang](https://github.com/zixin96), [Jiyu Huang](https://github.com/JiyuHuang)          
+* [**WebGPU based glTF Viewer**](https://github.com/JiyuHuang/webgpu-gltf-viewer) -- [Jiyu Huang](https://github.com/JiyuHuang),         
 
 ![team-7.gif](/assets/images/projects/team-7.gif){:class="img-final-projects"}
 * [**Real-Time Mesh Skinning with Direct Delta Mush**](https://github.com/PacosLelouch/MeshDeformUnity) -- [Xuntong Liang](https://github.com/PacosLelouch), [Bowen Deng](https://github.com/7DBW13), [Beini Gu](https://github.com/Scoutydren)

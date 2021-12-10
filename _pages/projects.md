@@ -33,7 +33,7 @@ permalink: /projects/
 <!--![team-8.png](/assets/images/projects/team-8.png){:class="img-final-projects"}-->
 * [**Real-Time Ray Traced Caustic**](https://github.com/YichaoW/RealTime-RayTracing-Caustics/blob/main/README.md) -- [Yichao Wang](https://github.com/YichaoW), [Xiao Wei](https://github.com/WillTheFabulous)      
 
-![team-9.gif](/assets/images/projects/team-9.png){:class="img-final-projects"}
+![team-9.gif](/assets/images/projects/team-9.gif){:class="img-final-projects"}
 * [**WebGPU Image Super Resolution**](https://github.com/sona1111/webgpu-super-resolution) -- [Paul Everett Jewell](https://github.com/sona1111), [Yuxuan Zhu](https://github.com/Andrewzhuyx)        
 
 ![team-10.png](/assets/images/projects/team-10.png){:class="img-final-projects"}

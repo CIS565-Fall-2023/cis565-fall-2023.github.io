@@ -30,7 +30,7 @@ permalink: /projects/
 ![team-7.gif](/assets/images/projects/team-7.gif){:class="img-final-projects"}
 * [**Real-Time Mesh Skinning with Direct Delta Mush**](https://github.com/PacosLelouch/MeshDeformUnity) -- [Xuntong Liang](https://github.com/PacosLelouch), [Bowen Deng](https://github.com/7DBW13), [Beini Gu](https://github.com/Scoutydren)
 
-<!--![team-8.png](/assets/images/projects/team-8.png){:class="img-final-projects"}-->
+![team-8.png](/assets/images/projects/team-8.png){:class="img-final-projects"}
 * [**Real-Time Ray Traced Caustic**](https://github.com/YichaoW/RealTime-RayTracing-Caustics/blob/main/README.md) -- [Yichao Wang](https://github.com/YichaoW), [Xiao Wei](https://github.com/WillTheFabulous)      
 
 ![team-9.gif](/assets/images/projects/team-9.gif){:class="img-final-projects"}

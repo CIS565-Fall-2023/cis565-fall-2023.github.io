@@ -12,6 +12,8 @@ permalink: /
 [![team-4.gif](/assets/images/previous_projects/team-4.gif){:class="img-projects"}](https://cis565-fall-2020.github.io/projects/)
 [![team-8.gif](/assets/images/previous_projects/team-8.gif){:class="img-projects"}](https://cis565-fall-2020.github.io/projects/)
 
+## [Click here to see 2021 Final Projects](https://cis565-fall-2021.github.io/projects/)
+
 ## Course Description
 
 A timeline section from the following topics:

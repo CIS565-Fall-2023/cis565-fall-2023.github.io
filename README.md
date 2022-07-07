@@ -1,4 +1,4 @@
-# CIS 565 GPU Programming and Architecture Fall 2021
+# CIS 565 GPU Programming and Architecture Fall 2022
 
 This website uses Hydejack Starter Kit, a quicker, cleaner way to get started blogging with [Hydejack](https://hydejack.com/).
 

@@ -1,8 +1,8 @@
 ---
 layout: page
-title: CIS 565 GPU Programming and Architecture <br> Fall 2021
+title: CIS 565 GPU Programming and Architecture <br> Fall 2022
 description: >
-  Website for CIS 565 GPU Programming and Architecture Fall 2021 at the University of Pennsylvania
+  Website for CIS 565 GPU Programming and Architecture Fall 2022 at the University of Pennsylvania
 hide_description: true
 permalink: /
 ---
@@ -12,7 +12,7 @@ permalink: /
 [![team-4.gif](/assets/images/previous_projects/team-4.gif){:class="img-projects"}](https://cis565-fall-2020.github.io/projects/)
 [![team-8.gif](/assets/images/previous_projects/team-8.gif){:class="img-projects"}](https://cis565-fall-2020.github.io/projects/)
 
-## [Click here to see 2021 Final Projects](https://cis565-fall-2021.github.io/projects/)
+## [Click here to see 2022 Final Projects](https://cis565-fall-2022.github.io/projects/)
 
 ## Course Description
 
@@ -26,7 +26,7 @@ This is a project-intensive course with significant coding, writing, and present
 
 For a course more focused on GPU architecture without graphics, see Joe Devietti's [CIS 601](https://www.cis.upenn.edu/~devietti/classes/cis601-spring2017/){:target="_blank"} (no longer offered at Penn).
 
-**If you have registered as a student for the course, or plan to, please complete this required survey: [CIS 565 Fall 2021 Student Survey](https://forms.office.com/r/Eh3U0WwP12){:target="_blank"}**.
+**If you have registered as a student for the course, or plan to, please complete this required survey: [CIS 565 Fall 2022 Student Survey](https://forms.office.com/r/Eh3U0WwP12){:target="_blank"}**.
 
 ## Prerequisites
 
@@ -42,8 +42,8 @@ For a course more focused on GPU architecture without graphics, see Joe Devietti
 
 ## Github, Schedule, Class Forum, and LinkedIn
 
-* [**Github**](https://github.com/CIS565-Fall-2021){:target="_blank"}: fork your repos from here
-* [**Piazza**](https://piazza.com/upenn/fall2021/cis565){:target="_blank"}: Class forum
+* [**Github**](https://github.com/CIS565-Fall-2022){:target="_blank"}: fork your repos from here
+* [**Piazza**](https://piazza.com/upenn/fall2022/cis565){:target="_blank"}: Class forum
 * [**LinkedIn Group**](http://www.linkedin.com/groups/GPU-Programming-Architecture-6540935){:target="_blank"}: for networking with current and previous course students
 
 ## Lecturer
@@ -130,7 +130,7 @@ Please visit the [COVID-19](https://www.seas.upenn.edu/coronavirus/) for informa
 
 ### COVID Protocols for CIS 565
 
-* Classrooms will be operating under normal, pre-COVID capacity during the Fall 2021 term.
+* Classrooms will be operating under normal, pre-COVID capacity during the Fall 2022 term.
 * CIS 565 will be in person and lecture recordings will be made available within 24 hours after the lecture.
 * In accordance with University policy, **students are required wear a face mask in the classroom and to all in-person office hours**. Students who do not wear a mask in class may be required to leave the classroom.
   * As a consequence of this requirement, please keep eating and drinking within the classroom to a minimum.

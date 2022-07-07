@@ -12,8 +12,6 @@ permalink: /
 [![team-4.gif](/assets/images/previous_projects/team-4.gif){:class="img-projects"}](https://cis565-fall-2020.github.io/projects/)
 [![team-8.gif](/assets/images/previous_projects/team-8.gif){:class="img-projects"}](https://cis565-fall-2020.github.io/projects/)
 
-## [Click here to see 2022 Final Projects](https://cis565-fall-2022.github.io/projects/)
-
 ## Course Description
 
 A timeline section from the following topics:
@@ -25,8 +23,6 @@ A timeline section from the following topics:
 This is a project-intensive course with significant coding, writing, and presenting. It is **more work** than any other course, but it is worth it.
 
 For a course more focused on GPU architecture without graphics, see Joe Devietti's [CIS 601](https://www.cis.upenn.edu/~devietti/classes/cis601-spring2017/){:target="_blank"} (no longer offered at Penn).
-
-**If you have registered as a student for the course, or plan to, please complete this required survey: [CIS 565 Fall 2022 Student Survey](https://forms.office.com/r/Eh3U0WwP12){:target="_blank"}**.
 
 ## Prerequisites
 
@@ -57,25 +53,6 @@ Office Hours:
 Changes to office hour schedule will be made on the CIS 565 Calendar and notified through Piazza.
 
 ![Shehzan Mohammed](/assets/images/headshots/shehzan_mohammed.jpg){:class="img-headshots"}
-
-## Teaching Assistants
-
-### [Janine Liu](https://www.linkedin.com/in/kangning-li-46515553/){:target="_blank"} jliu99@seas.upenn.edu
-
-Office Hours:
-* Tuesday and Thursday: 12:00pm - 1:00pm
-* Saturday: 10:00am - 11:00am (Zoom)
-
-![Janine Liu](/assets/images/headshots/janine_liu.jpg){:class="img-headshots"}
-
-### [Liam Dugan](https://www.linkedin.com/in/liam-dugan/){:target="_blank"} ldugan@seas.upenn.edu
-
-Office Hours:
-* Tuesday and Thursday: 5:00pm - 6:30pm (Moore 103 (SIG Lab))
-
-![Liam Dugan](/assets/images/headshots/liam_dugan.jpg){:class="img-headshots"}
-
-Changes to office hour schedule will be made on the CIS 565 Calendar and notified through Piazza.
 
 ## Course Advisor
 
@@ -132,8 +109,7 @@ Please visit the [COVID-19](https://www.seas.upenn.edu/coronavirus/) for informa
 
 * Classrooms will be operating under normal, pre-COVID capacity during the Fall 2022 term.
 * CIS 565 will be in person and lecture recordings will be made available within 24 hours after the lecture.
-* In accordance with University policy, **students are required wear a face mask in the classroom and to all in-person office hours**. Students who do not wear a mask in class may be required to leave the classroom.
-  * As a consequence of this requirement, please keep eating and drinking within the classroom to a minimum.
+* We will follow University policy for mask use.
 * If a student (or staff) tests positive at any point during the semester, and there is probable risk of spread, a portion of the students, if not the entire class may be moved online-only temporarily. You will be notified through Piazza.
 
 ## Acknowledgments
@@ -143,6 +119,7 @@ Please visit the [COVID-19](https://www.seas.upenn.edu/coronavirus/) for informa
 All former TAs have helped shape this course:
 
 |---|---|---|
+| [Janine Liu](https://www.janineliu.com/) | [Liam Dugan](http://liamdugan.com/) | |
 | [Hannah Bollar](http://hannahbollar.com/)   | [Youssef Victor](http://youssefvictor.com/)        | [Ziad Ben Hadj-Alouane](https://github.com/ziedbha)  |
 | [Ottavio Hartman](http://ottav.io/)         | [Yash Vardhan](https://github.com/yashv28)         | [Austin Eng](http://austin-eng.co/)                  |
 | [Kaixiang Miao](http://miaokaixiang.com/)   | [Shuai Shao (Shrek)](https://shrekshao.github.io/) | [Gary Li](http://likangning93.wixsite.com/home)      |
@@ -166,4 +143,3 @@ Many passionate folks in our field have also provided course input:
 * Emil Persson, ([@\_Humus\_](https://twitter.com/_Humus_){:target="_blank"})
 * Sebastien Vandenberghe ([@sebavanmicrosof](https://github.com/sebavanmicrosof){:target="_blank"})
 * [Chrome GPU Team](https://www.chromium.org/developers/design-documents/chromium-graphics){:target="_blank"}, which includes many former CIS 565 Alumni.
-

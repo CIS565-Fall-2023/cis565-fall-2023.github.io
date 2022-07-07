@@ -39,7 +39,7 @@ For a course more focused on GPU architecture without graphics, see Joe Devietti
 ## Github, Schedule, Class Forum, and LinkedIn
 
 * [**Github**](https://github.com/CIS565-Fall-2022){:target="_blank"}: fork your repos from here
-* [**Piazza**](https://piazza.com/upenn/fall2022/cis565){:target="_blank"}: Class forum
+* **TBD**: Class forum
 * [**LinkedIn Group**](http://www.linkedin.com/groups/GPU-Programming-Architecture-6540935){:target="_blank"}: for networking with current and previous course students
 
 ## Lecturer
@@ -48,9 +48,9 @@ For a course more focused on GPU architecture without graphics, see Joe Devietti
 
 Office Hours:
 * Monday and Wednesday: 4:30pm - 5:15pm, + 30 minutes after end of class (Towne 337)
-* Sunday: 10:00am - 11:00am (Zoom)
+* TBD
 
-Changes to office hour schedule will be made on the CIS 565 Calendar and notified through Piazza.
+Changes to office hour schedule will be made on the CIS 565 Calendar and notified through Class Forum.
 
 ![Shehzan Mohammed](/assets/images/headshots/shehzan_mohammed.jpg){:class="img-headshots"}
 
@@ -94,7 +94,7 @@ See [Academic Integrity at the University of Pennsylvania: A Guide for Students]
 
 **Code submissions will be cross-checked for plaigarism against previous years' submissions as well as submissions from your colleagues using automated software. <u>Please do not copy code.</u>**
 
-If you would like to use code not written by you for this class, please run it by the TAs using Piazza for permission to use it. Examples of code you will need to ask permission to use:
+If you would like to use code not written by you for this class, please run it by the TAs using Class Forum for permission to use it. Examples of code you will need to ask permission to use:
 
 * Public Github Repositories and other open source projects.
 * Projects from other classes that will give you a non-trivial advantage for the project.
@@ -110,7 +110,7 @@ Please visit the [COVID-19](https://www.seas.upenn.edu/coronavirus/) for informa
 * Classrooms will be operating under normal, pre-COVID capacity during the Fall 2022 term.
 * CIS 565 will be in person and lecture recordings will be made available within 24 hours after the lecture.
 * We will follow University policy for mask use.
-* If a student (or staff) tests positive at any point during the semester, and there is probable risk of spread, a portion of the students, if not the entire class may be moved online-only temporarily. You will be notified through Piazza.
+* If a student (or staff) tests positive at any point during the semester, and there is probable risk of spread, a portion of the students, if not the entire class may be moved online-only temporarily. You will be notified through Class Forum.
 
 ## Acknowledgments
 

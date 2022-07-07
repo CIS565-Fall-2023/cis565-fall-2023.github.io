@@ -7,10 +7,10 @@ hide_description: true
 permalink: /
 ---
 
-[![team-1.jpg](/assets/images/previous_projects/team-1.jpg){:class="img-projects"}](https://cis565-fall-2020.github.io/projects/)
 [![team-2.gif](/assets/images/previous_projects/team-2.gif){:class="img-projects"}](https://cis565-fall-2020.github.io/projects/)
 [![team-4.gif](/assets/images/previous_projects/team-4.gif){:class="img-projects"}](https://cis565-fall-2020.github.io/projects/)
-[![team-8.gif](/assets/images/previous_projects/team-8.gif){:class="img-projects"}](https://cis565-fall-2020.github.io/projects/)
+[![team-5.gif](/assets/images/previous_projects/team-5.gif){:class="img-projects"}](https://cis565-fall-2020.github.io/projects/)
+[![team-7.gif](/assets/images/previous_projects/team-7.gif){:class="img-projects"}](https://cis565-fall-2020.github.io/projects/)
 
 ## Course Description
 

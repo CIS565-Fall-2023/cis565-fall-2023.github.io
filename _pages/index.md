@@ -36,6 +36,10 @@ For a course more focused on GPU architecture without graphics, see Joe Devietti
   * [CIS 371](https://www.cis.upenn.edu/~cis371/18sp/): Digital Systems Organization and Design, or
   * [CIS 501](https://www.cis.upenn.edu/~cis501/): Introduction to Computer Architecture.
 
+### Student Survey (Required)
+
+**If you have registered as a student for the course, or plan to, please complete this required survey: [CIS 565 Fall 2022 Student Survey](https://forms.office.com/r/zmXCH5Sd2Y){:target="_blank"}**.
+
 ## Github, Schedule, Class Forum, and LinkedIn
 
 * [**Github**](https://github.com/CIS565-Fall-2022){:target="_blank"}: fork your repos from here

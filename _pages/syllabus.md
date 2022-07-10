@@ -7,9 +7,9 @@ hide_description: true
 permalink: /syllabus/
 ---
 
-## [Schedule](https://onedrive.live.com/embed?resid=A6B78147D66DD722%2195892&authkey=!AH-8XiWeEb4q_nc&em=2){:target="_blank"} (Open in new tab)
+## [Schedule](https://onedrive.live.com/embed?cid=A6B78147D66DD722&resid=A6B78147D66DD722%2196222&authkey=ANNkLBTO-JNtPW4&em=2){:target="_blank"} (Open in new tab)
 
-<iframe width="1200" height="900" frameborder="5" scrolling="yes" src="https://onedrive.live.com/embed?cid=A6B78147D66DD722&resid=A6B78147D66DD722%2195892&authkey=AH-8XiWeEb4q_nc&em=2&wdAllowInteractivity=False&Item='Schedule'!A1%3AF47&wdInConfigurator=True"></iframe>
+<iframe width="1200" height="900" frameborder="5" scrolling="yes" src="https://onedrive.live.com/embed?cid=A6B78147D66DD722&resid=A6B78147D66DD722%2196222&authkey=ANNkLBTO-JNtPW4&em=2&wdAllowInteractivity=False&Item='Schedule'!A1%3AF47&wdInConfigurator=True"></iframe>
 
 ## Course Topics
 
@@ -68,7 +68,7 @@ permalink: /syllabus/
    * Shuffle Operations
    * Warp Reduce using Shuffle
 9. Introduction to WebGL
-10. VR: The GPU Perspective
+10. Machine Learning & CUDA
 
 ## Labs
 

@@ -7,10 +7,10 @@ hide_description: true
 permalink: /
 ---
 
-[![team-2.gif](/assets/images/previous_projects/team-2.gif){:class="img-projects"}](https://cis565-fall-2020.github.io/projects/)
-[![team-4.gif](/assets/images/previous_projects/team-4.gif){:class="img-projects"}](https://cis565-fall-2020.github.io/projects/)
-[![team-5.gif](/assets/images/previous_projects/team-5.gif){:class="img-projects"}](https://cis565-fall-2020.github.io/projects/)
-[![team-7.gif](/assets/images/previous_projects/team-7.gif){:class="img-projects"}](https://cis565-fall-2020.github.io/projects/)
+[![team-2.gif](/assets/images/previous_projects/team-2.gif){:class="img-projects"}](https://cis565-fall-2021.github.io/projects/)
+[![team-4.gif](/assets/images/previous_projects/team-4.gif){:class="img-projects"}](https://cis565-fall-2021.github.io/projects/)
+[![team-5.gif](/assets/images/previous_projects/team-5.gif){:class="img-projects"}](https://cis565-fall-2021.github.io/projects/)
+[![team-7.gif](/assets/images/previous_projects/team-7.gif){:class="img-projects"}](https://cis565-fall-2021.github.io/projects/)
 
 ## Course Description
 
@@ -79,7 +79,7 @@ Changes to office hour schedule will be made on the CIS 565 Calendar and notifie
 * [Machine Learning by Andrew Ng](https://www.coursera.org/learn/machine-learning) (Coursera free)
 * [Deep Learning Book](https://www.deeplearningbook.org/) (Free to read in HTML)
 * [CUDA Programming Guide](https://docs.nvidia.com/cuda/cuda-c-programming-guide/index.html)
-* [All previous CIS 565](https://cis565-fall-2020.github.io) (https://cis565-fall-201X.github.io)
+* [All previous CIS 565](https://cis565-fall-2021.github.io) (https://cis565-fall-20XY.github.io)
 
 ## Grading
 

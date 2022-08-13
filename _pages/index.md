@@ -53,7 +53,7 @@ For a course more focused on GPU architecture without graphics, see Joe Devietti
 ## Github, Schedule, Class Forum, and LinkedIn
 
 * [**Github**](https://github.com/CIS565-Fall-2022){:target="_blank"}: fork your repos from here
-* **TBD**: Class forum
+* [**Piazza**](https://piazza.com/class/l5aex81jtsa3mq){:target="_blank"}: Class forum
 * [**LinkedIn Group**](http://www.linkedin.com/groups/GPU-Programming-Architecture-6540935){:target="_blank"}: for networking with current and previous course students
 
 ## Lecturer

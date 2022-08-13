@@ -68,6 +68,29 @@ Changes to office hour schedule will be made on the CIS 565 Calendar and notifie
 
 ![Shehzan Mohammed](/assets/images/headshots/shehzan_mohammed.jpg){:class="img-headshots"}
 
+## Teaching Assistants
+
+### [Wayne Wu](https://www.linkedin.com/in/wayne-wu/){:target="_blank"} waynewu@seas.upenn.edu
+
+Office Hours:
+* TBD
+
+![Wayne Wu](/assets/images/headshots/wayne_wu.jpg){:class="img-headshots"}
+
+### [Beini "Rachel" Gu](https://www.linkedin.com/in/rgu/){:target="_blank"} gubeini@seas.upenn.edu
+
+Office Hours:
+* TBD
+
+![Beini Gu](/assets/images/headshots/rachel_gu.jpg){:class="img-headshots"}
+
+### [Shubham Sharma](https://www.linkedin.com/in/codeshubham/){:target="_blank"} sshubh@seas.upenn.edu
+
+Office Hours:
+* TBD
+
+![Shubham Sharma](/assets/images/headshots/shubham_sharma.jpg){:class="img-headshots"}
+
 ## Course Advisor
 
 ### [Patrick Cozzi](https://www.linkedin.com/in/patrickcozzi/){:target="_blank"}

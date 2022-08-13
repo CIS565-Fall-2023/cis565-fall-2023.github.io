@@ -12,6 +12,16 @@ permalink: /
 [![team-5.gif](/assets/images/previous_projects/team-5.gif){:class="img-projects"}](https://cis565-fall-2021.github.io/projects/)
 [![team-7.gif](/assets/images/previous_projects/team-7.gif){:class="img-projects"}](https://cis565-fall-2021.github.io/projects/)
 
+## Course Announcements
+
+### 2022-08-13: Registration for CIS 565 or if you are facing issues
+
+Students who may not have been able to register for the class due to Path at Penn issues can attend the first day of class on Wednesday, August 31 2022 at 5:15pm in Towne 337. Please reach out to the instructors after class ends.
+
+### 2022-08-01: Student Survey
+
+All students who are interested in taking the course (registered, waitlisted, or otherwise) must complete the [Student Survey](#student-survey-required) as soon as possible. Failure to submit the survey before first day of class can jeopardize your registration for CIS 565.
+
 ## Course Description
 
 A timeline section from the following topics:

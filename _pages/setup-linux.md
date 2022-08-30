@@ -22,4 +22,8 @@ This guide assumes that you have root access to your computer.
 5. Install **glfw** and **glew** (`apt install libglfw3-dev libglew-dev` on Debian/Ubuntu).
 6. (_Recommended_) Nsight is a debugging and profiling tool shipped with CUDA. We recommend adding the CUDA executables to your `PATH` using `export PATH=/usr/local/cuda/bin/:${PATH}`. Note that using the `export` command is a temporary change through the life of the terminal. For permanent change, add it to your shell configuration file, e.g. `~/.bashrc` on Ubuntu). You can run then run Nsight by typing `nsight` in your terminal.
 
+### Enable GPU Performance Counters
+
+When running profiling, the Nsight tools need access to systems level counters to trace the performance. This can be done using running the app as root using `sudo`, or setting the `CAP_SYS_ADMIN` capability set. For detailed instructions, follow [NVIDIA Documentation](https://developer.nvidia.com/nvidia-development-tools-solutions-err_nvgpuctrperm-permission-issue-performance-counters).
+
 [Back to Setup](/setup/)

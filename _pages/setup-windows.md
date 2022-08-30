@@ -53,4 +53,19 @@ This guide assumes that you have admin access to your computer.
 9. (_Optional_) Download [**GPU-Z**](https://www.techpowerup.com/download/techpowerup-gpu-z/). You can either install it, or run it as a portable executable. This provides useful information about your GPU and technologies it supports.
     ![gpu-z](/assets/images/screenshots/gpu-z.jpg)
 
+### Enable GPU Performance Counters
+
+When running profiling, the Nsight tools need access to systems level counters to trace the performance. There are two options to do this:
+
+1. Run the program as admin, which is tedious to set up each time.
+2. Enable Performance counters using NVIDIA Control Panel (Recommended).
+
+The steps to enable this are:
+
+1. Open NVIDIA Control Panel. This can be done from the start menu, the taskbar NVIDIA icon, or Control Panel.
+2. On the menu bar (top), select `Desktop -> Enable Developer Settings`.
+3. On the left side panel, you will now see `Developer -> Manage GPU Performance Counter`. Change the option to `Allow access to the GPU performance counters to all users`.
+
+See [NVIDIA Documentation](https://developer.nvidia.com/nvidia-development-tools-solutions-err_nvgpuctrperm-permission-issue-performance-counters) for more.
+
 [Back to Setup](/setup/)

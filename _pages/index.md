@@ -61,8 +61,8 @@ For a course more focused on GPU architecture without graphics, see Joe Devietti
 ### [Shehzan Mohammed](https://www.linkedin.com/in/shehzan-mohammed-a21a783a/){:target="_blank"} mza@seas.upenn.edu
 
 Office Hours:
-* Monday and Wednesday: 4:30pm - 5:15pm, + 30 minutes after end of class (Towne 337)
-* TBD
+* Monday and Wednesday: 4:30pm - 5:15pm, + 30 minutes after end of class - Outside Towne 337 (lobby area)
+* By appointment (email me)
 
 Changes to office hour schedule will be made on the CIS 565 Calendar and notified through Class Forum.
 
@@ -73,21 +73,23 @@ Changes to office hour schedule will be made on the CIS 565 Calendar and notifie
 ### [Wayne Wu](https://www.linkedin.com/in/wayne-wu/){:target="_blank"} waynewu@seas.upenn.edu
 
 Office Hours:
-* TBD
+
+* Monday and Wednesday: 3:45-5:15pm - Outside Towne 337 (lobby area)
 
 ![Wayne Wu](/assets/images/headshots/wayne_wu.jpg){:class="img-headshots"}
 
 ### [Beini "Rachel" Gu](https://www.linkedin.com/in/rgu/){:target="_blank"} gubeini@seas.upenn.edu
 
 Office Hours:
-* TBD
+
+* Saturday: 2:00-5:00pm - Moore Lab
 
 ![Beini Gu](/assets/images/headshots/rachel_gu.jpg){:class="img-headshots"}
 
 ### [Shubham Sharma](https://www.linkedin.com/in/codeshubham/){:target="_blank"} sshubh@seas.upenn.edu
 
 Office Hours:
-* TBD
+* Tuesday and Thursday: 1:00-2:30pm - Moore Lab
 
 ![Shubham Sharma](/assets/images/headshots/shubham_sharma.jpg){:class="img-headshots"}
 

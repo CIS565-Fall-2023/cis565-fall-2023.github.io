@@ -17,8 +17,9 @@ This guide assumes that you have root access to your computer.
 1. Install **`git`** using package manager. Example `sudo apt install git` on Debian/Ubuntu.
     * After installation, follow the [**First Time Git Setup**](https://git-scm.com/book/en/v2/Getting-Started-First-Time-Git-Setup) Guide if this is the first time you are using Git.
 2. Install [**CUDA 11**](https://developer.nvidia.com/cuda-downloads). You can either use the downloaded version or your package manager. Install the NVIDIA Driver if it is newer than the installed version. Make sure you also install Nsight.
-3. Install **CMake** (`sudo apt install cmake` on Debian/Ubuntu).
-4. Install **glfw** and **glew** (`apt install libglfw3-dev libglew-dev` on Debian/Ubuntu).
-5. (_Recommended_) Nsight is a debugging and profiling tool shipped with CUDA. We recommend adding the CUDA executables to your `PATH` using `export PATH=/usr/local/cuda/bin/:${PATH}`. Note that using the `export` command is a temporary change through the life of the terminal. For permanent change, add it to your shell configuration file, e.g. `~/.bashrc` on Ubuntu). You can run then run Nsight by typing `nsight` in your terminal.
+3. Install Nsight Compute, Nsight Graphics, and Nsight Systems from [https://developer.nvidia.com/nsight-tools-visual-studio-integration](https://developer.nvidia.com/nsight-tools-visual-studio-integration).
+4. Install **CMake** (`sudo apt install cmake` on Debian/Ubuntu).
+5. Install **glfw** and **glew** (`apt install libglfw3-dev libglew-dev` on Debian/Ubuntu).
+6. (_Recommended_) Nsight is a debugging and profiling tool shipped with CUDA. We recommend adding the CUDA executables to your `PATH` using `export PATH=/usr/local/cuda/bin/:${PATH}`. Note that using the `export` command is a temporary change through the life of the terminal. For permanent change, add it to your shell configuration file, e.g. `~/.bashrc` on Ubuntu). You can run then run Nsight by typing `nsight` in your terminal.
 
 [Back to Setup](/setup/)

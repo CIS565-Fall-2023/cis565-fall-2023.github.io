@@ -28,22 +28,29 @@ This guide assumes that you have admin access to your computer.
     * Visit [http://www.seas.upenn.edu/cets/software/msdn/](http://www.seas.upenn.edu/cets/software/msdn/).
     * Once you're in the Microsoft Azure download page, look for `Visual Studio 2019 Community` and download it.
     * Make sure this ends up installing the `Visual Studio Installer` so you can select the packages you want.
-    * Once in the installer, do the following:
+    * Once in the installer, do the following
         * Under the `Workloads` tab, select `Desktop Development with C++`. This will select almost everything you will need.
         * Under the `Individual Components Tab`, make sure these packages are selected. **DO NOT uncheck** everything else.
-            * Git for Windows (optional)
-            * Github Extension for Visual Studio (optional)
-            * MSVC v141 - VS 2017 C++ x64/x86 build tools (v14.16)
-            * C++ ATL for v141 build tools (x86 & x64)
-            * Windows 10 SDK (10.0.17763.0)
-            * Windows 10 SDK (10.0.18362.0)
-            * Windows 10 SDK (10.0.19041.0)
-5. Install [**CUDA 11**](https://developer.nvidia.com/cuda-downloads) (minimum version 10.2).
+            * Visual Studio 2019:
+                * Git for Windows (optional)
+                * Github Extension for Visual Studio (optional)
+                * MSVC v141 - VS 2017 C++ x64/x86 build tools (v14.16) - Allows you to build VS 2017 projects using 2019 (used for the DXR project later on)
+                * C++ ATL for v141 build tools (x86 & x64)
+                * Windows 10 SDK (10.0.17763.0)
+                * Windows 10 SDK (10.0.18362.0)
+                * Windows 10 SDK (10.0.19041.0)
+            * Visual Studio 2022 (in addition to above components for 2019 which are available for VS 2022):
+                * MSVC v142 - VS 2019 C++ x64/x86 build tools - Allows you to build VS 2019 projects using VS 2022
+                * Windows 10 SDK (10.0.22621.0)
+                * Windows 10 SDK (10.0.22000.0)
+                * Windows 10 SDK (10.0.20348.0)
+5. Install Nsight Compute, Nsight Graphics, and Nsight Systems from [https://developer.nvidia.com/nsight-tools-visual-studio-integration](https://developer.nvidia.com/nsight-tools-visual-studio-integration).
+6. Install [**CUDA 11**](https://developer.nvidia.com/cuda-downloads) (minimum version 10.2).
     * Use the `Custom Installation` and select only `CUDA` (do not install the display driver and other components).
     ![cuda-11-custom-installation](/assets/images/screenshots/cuda-11-custom-installation.jpg)
-6. Install [**CMake**](http://www.cmake.org/download/). Windows binaries are under `Binary distributions`.
-7. Install [Visual C++ Redistributable 2015/17/19 and 2013](https://support.microsoft.com/en-us/help/2977003/the-latest-supported-visual-c-downloads). Note: there are 2 different install files for 2015/17/19 and for 2013 - you need to install both.
-8. (_Optional_) Download [**GPU-Z**](https://www.techpowerup.com/download/techpowerup-gpu-z/). You can either install it, or run it as a portable executable. This provides useful information about your GPU and technologies it supports.
+7. Install [**CMake**](http://www.cmake.org/download/). Windows binaries are under `Binary distributions`.
+8. Install [Visual C++ Redistributable 2015/17/19 and 2013](https://support.microsoft.com/en-us/help/2977003/the-latest-supported-visual-c-downloads). Note: there are 2 different install files for 2015/17/19 and for 2013 - you need to install both.
+9. (_Optional_) Download [**GPU-Z**](https://www.techpowerup.com/download/techpowerup-gpu-z/). You can either install it, or run it as a portable executable. This provides useful information about your GPU and technologies it supports.
     ![gpu-z](/assets/images/screenshots/gpu-z.jpg)
 
 [Back to Setup](/setup/)

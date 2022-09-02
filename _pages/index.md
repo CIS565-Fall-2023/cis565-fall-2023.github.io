@@ -14,6 +14,10 @@ permalink: /
 
 ## Course Announcements
 
+### 2022-09-02: Switching Class Forum from Piazza to Ed Discussions
+
+We'll be switching from Piazza to Ed Discussions for the class forum. You can access Ed Discussions using [this link](https://edstem.org/us/courses/28083/discussion/). For more see [this section](#github-schedule-class-forum-and-linkedin)
+
 ### 2022-08-13: Registration for CIS 565 or if you are facing issues
 
 Students who may not have been able to register for the class due to Path at Penn issues can attend the first day of class on Wednesday, August 31 2022 at 5:15pm in Towne 337. Please reach out to the instructors after class ends.
@@ -54,6 +58,7 @@ For a course more focused on GPU architecture without graphics, see Joe Devietti
 
 * [**Github**](https://github.com/CIS565-Fall-2022){:target="_blank"}: fork your repos from here
 * [**Ed Discussions**](https://edstem.org/us/courses/28083/discussion/){:target="_blank"}: Class forum
+  * Note: Ed Discussions requires being registered for the class for default access. If you need access for auditing, please reach out to the instructors.
 * [**LinkedIn Group**](http://www.linkedin.com/groups/GPU-Programming-Architecture-6540935){:target="_blank"}: for networking with current and previous course students
 
 ## Lecturer

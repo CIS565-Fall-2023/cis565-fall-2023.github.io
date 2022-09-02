@@ -44,12 +44,12 @@ logo:                  /assets/icons/upenn.png
 menu:
   - title:             Course Syllabus and Schedule
     url:               /syllabus/
-  - title:             Course Projects
+  - title:             GitHub - Course Projects
     url:               https://github.com/CIS565-Fall-2022/
 #  - title:             Student Work
 #    url:               /projects/
-  - title:             Piazza - Class Forum
-    url:               https://piazza.com/upenn/fall2022/cis565
+  - title:             Ed Discussion - Class Forum
+    url:               https://edstem.org/us/courses/28083/discussion/
   - title:             Hardware and Software Setup
     url:               /setup/
   - title:             Previous Semesters

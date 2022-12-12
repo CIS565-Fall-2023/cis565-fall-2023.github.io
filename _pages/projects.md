@@ -26,7 +26,7 @@ permalink: /projects/
 ![team-6.png](/assets/images/projects/team-6.png){:class="img-final-projects"}
 * [**Hardware Accelerated SAR Simulator**](https://github.com/dluisnothere/CIS565-FinalProject-Hw3Extension) -- [David Li](https://github.com/theCollegeBoardOfc), [Di Lu](https://github.com/dluisnothere), [Xiaoyu Du](https://github.com/Furinner)
 
-![team-7.png](/assets/images/projects/team-7.png){:class="img-final-projects"}
+![team-7.png](/assets/images/projects/team-7.PNG){:class="img-final-projects"}
 * [**GPU-Accelerated Heterogeneous Volume Rendering with Null-Collisions**](https://github.com/meganr28/null-collision-volumes-cuda) -- [Nick Moon](https://github.com/NicholasMoon), [Megan Reddy](https://github.com/meganr28)
 
 ![team-8.jpg](/assets/images/projects/team-8.jpg){:class="img-final-projects"}

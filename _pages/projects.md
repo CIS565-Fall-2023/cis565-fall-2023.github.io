@@ -17,7 +17,7 @@ permalink: /projects/
 ![team-3.gif](/assets/images/projects/team-3.gif){:class="img-final-projects"}
 * [**GPUVerb: Real-Time Dynamic Sound Propagation**](https://github.com/GPUVerb/GPUVerb) -- [Evan Si](https://github.com/esiaero), [Runshi Gu](https://github.com/JustinGu35), [Tongwei Dai](https://github.com/dw218192)
 
-![team-4.png](/assets/images/projects/team-4.png){:class="img-final-projects"}
+![team-4.png](/assets/images/projects/team-4.gif){:class="img-final-projects"}
 * [**CUDA Kernel Node Editor For Houdini**](https://github.com/vivienldy/CUDA-Kernel-Node-Editor-For-Houdini) -- [Dongying Liu](https://github.com/vivienldy), [Wenqing Wang](https://github.com/FridaWang), [YuChia Shen](https://github.com/yuchiashen1009)
 
 ![team-5.png](/assets/images/projects/team-5.png){:class="img-final-projects"}

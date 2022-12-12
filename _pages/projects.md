@@ -38,5 +38,5 @@ permalink: /projects/
 ![team-10.png](/assets/images/projects/team-10.png){:class="img-final-projects"}
 * [**SDF-Based DirectX Path Tracer**](https://github.com/cyy0915/CIS565_Final_Project_DX12) -- [Zhuohao Lin](https://github.com/linlinbest), [Hanlin Sun](https://github.com/HanLinSun), [Yiyang Chen](https://github.com/cyy0915)
 
-![team-11.png](/assets/images/projects/team-11.png){:class="img-final-projects"}
+![team-11.gif](/assets/images/projects/team-11.gif){:class="img-final-projects"}
 * [**Real Time Denoising and Upscaling for CUDA Pathtracer**](https://github.com/tomvdon/Real-Time-Denoising-And-Upscaling) -- [Ryan Tong](https://github.com/ryanryantong), [Tom Donnelly](https://github.com/tomvdon), [Shixuan Fang](https://github.com/horo-ursa)

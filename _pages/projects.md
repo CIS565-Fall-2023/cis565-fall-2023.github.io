@@ -20,7 +20,7 @@ permalink: /projects/
 ![team-4.png](/assets/images/projects/team-4.gif){:class="img-final-projects"}
 * [**CUDA Kernel Node Editor For Houdini**](https://github.com/vivienldy/CUDA-Kernel-Node-Editor-For-Houdini) -- [Dongying Liu](https://github.com/vivienldy), [Wenqing Wang](https://github.com/FridaWang), [YuChia Shen](https://github.com/yuchiashen1009)
 
-![team-5.png](/assets/images/projects/team-5.gif){:class="img-final-projects"}
+![team-5.gif](/assets/images/projects/team-5.gif){:class="img-final-projects"}
 * [**ARC - An AR Procedural Generation App**](https://github.com/rcj9719/ARC-Procedural-Generation-GPU) -- [Guanlin Huang](https://github.com/VirulentKid), [Shutong Wu](https://github.com/Scriptwonder), [Rhuta Joshi](https://github.com/rcj9719)
 
 ![team-6.png](/assets/images/projects/team-6.png){:class="img-final-projects"}

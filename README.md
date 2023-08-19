@@ -4,13 +4,15 @@ This website uses Hydejack Starter Kit, a quicker, cleaner way to get started bl
 
 ## Quick Start
 
-### Running locally
+### Running locally (Windows only, does not work on MacOS)
 
 1. Clone repository (git users), or [download] and unzip.
-2. Open terminal, `cd` into root directory (where `_config.yml` is located)
-3. Run `bundle install` [^1]
-4. Run `bundle exec jekyll serve`
-5. Open <http://localhost:4000/>
+2. If you don't have Ruby, install from here: https://rubyinstaller.org/ 
+3. Open terminal, `cd` into root directory (where `_config.yml` is located)
+4. Install Bundler if you haven't: `gem install bundler`
+5. Run `bundle install` [^1]
+6. Run `bundle exec jekyll serve`
+7. Open <http://localhost:4000/>
 
 ### GitHub Pages
 

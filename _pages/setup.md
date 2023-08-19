@@ -1,8 +1,8 @@
 ---
 layout: page
-title: CIS 565 - Hardware and Software Setup
+title: CIS 5650 - Hardware and Software Setup
 description: >
-  Instructions for setting up your computer for CIS 565 projects
+  Instructions for setting up your computer for CIS 5650 projects
 hide_description: true
 permalink: /setup/
 ---
@@ -21,7 +21,7 @@ CIS 565 requires access to an NVIDIA GPU to complete the projects. Most projects
   * Any modern NVIDIA GPU supports all projects except DirectX RayTracing.
   * DirectX RayTracing project requires either:
     * A RayTracing GPU (GeForce/Quadro RTX, Tesla T4, or other Turing GPUs) - Recommended.
-    * A GPU that supports software fallback (eg. Maxwell or newer architecture. We'll test this as part of [Project 0](https://github.com/CIS565-Fall-2022/Project0-Getting-Started)) - Works, but not recommended.
+    * A GPU that supports software fallback (eg. Maxwell or newer architecture. We'll test this as part of [Project 0](https://github.com/CIS565-Fall-2023/Project0-Getting-Started)) - Works, but not recommended.
 
 ## Setup Instructions
 

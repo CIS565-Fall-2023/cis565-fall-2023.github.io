@@ -1,6 +1,6 @@
 ---
 layout: page
-title: CIS 565 - Course Syllabus and Schedule
+title: CIS 5650 - Course Syllabus and Schedule
 description: >
   Course Syllabus and Schedule
 hide_description: true

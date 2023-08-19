@@ -1,6 +1,6 @@
 ---
 layout: page
-title: CIS 565 - Student Projects
+title: CIS 5650 - Student Projects
 description: >
   Student Projects
 hide_description: true
@@ -30,7 +30,7 @@ permalink: /projects/
 * [**GPU-Accelerated Heterogeneous Volume Rendering with Null-Collisions**](https://github.com/meganr28/null-collision-volumes-cuda) -- [Nick Moon](https://github.com/NicholasMoon), [Megan Reddy](https://github.com/meganr28)
 
 ![team-8.jpg](/assets/images/projects/team-8.jpg){:class="img-final-projects"}
-* [**EIDOLA - Real-time GI Path Tracer**](https://github.com/IwakuraRein/CIS-565-Final-VR-Raytracer) -- [Chang Liu](https://github.com/HummaWhite), [Alex Fu](https://github.com/IwakuraRein), [Yilin Liu](https://github.com/BigFranklin1)
+* [**EIDOLA - Real-time GI Path Tracer**](https://github.com/IwakuraRein/CIS-5650-Final-VR-Raytracer) -- [Chang Liu](https://github.com/HummaWhite), [Alex Fu](https://github.com/IwakuraRein), [Yilin Liu](https://github.com/BigFranklin1)
 
 ![team-9.gif](/assets/images/projects/team-9.gif){:class="img-final-projects"}
 * [**Realistic Butterfly Flight and Behavior Simulation with WebGPU**](https://github.com/Li-Jia-Jun/WebGPU-Butterfly) -- [Shineng Tang](https://github.com/jaAcKrABbit), [Jiajun Li](https://github.com/Li-Jia-Jun), [Haoquan Liang](https://github.com/LEO-CGGT)

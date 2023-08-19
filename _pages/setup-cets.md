@@ -1,13 +1,13 @@
 ---
 layout: page
-title: CIS 565 - Setup instructions for CETS Virtual Lab
+title: CIS 5650 - Setup instructions for CETS Virtual Lab
 description: >
-  This page provides instructions for setting up CETS Virtual Lab for CIS 565
+  This page provides instructions for setting up CETS Virtual Lab for CIS 5650
 hide_description: true
 permalink: /setup-cets/
 ---
 
-## Using CETS Virtual Lab for CIS 565
+## Using CETS Virtual Lab for CIS 5650
 
 The Virtual Lab connects you remotely to computers available to CETS. The Virtual Lab consists of computers with **NVIDIA Quadro RTX T1000** GPUs.
 

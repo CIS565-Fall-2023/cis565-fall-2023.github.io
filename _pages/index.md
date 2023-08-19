@@ -49,7 +49,7 @@ For a course more focused on GPU architecture without graphics, see Joe Devietti
 
 ### Student Survey (Required)
 
-**If you have registered as a student for the course, or plan to, please complete this required survey: [CIS 5650 Fall 2023 Student Survey](https://forms.office.com/r/zmXCH5Sd2Y){:target="_blank"}**.
+**If you have registered as a student for the course, or plan to, please complete this required survey: [CIS 5650 Fall 2023 Student Survey](https://forms.office.com/r/bvSYyjD7C2){:target="_blank"}**.
 
 ## Github, Schedule, Class Forum, and LinkedIn
 

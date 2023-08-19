@@ -1,10 +1,10 @@
-# CIS 565 GPU Programming and Architecture Fall 2022
+# CIS 565 GPU Programming and Architecture Fall 2023
 
 This website uses Hydejack Starter Kit, a quicker, cleaner way to get started blogging with [Hydejack](https://hydejack.com/).
 
 ## Quick Start
 
-### Running locally (Windows only, does not work on MacOS)
+### Running locally (Windows only)
 
 1. Clone repository (git users), or [download] and unzip.
 2. If you don't have Ruby, install from here: https://rubyinstaller.org/ 

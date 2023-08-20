@@ -9,7 +9,7 @@ permalink: /setup/
 
 ## Hardware and Software Requirements
 
-CIS 565 requires access to an NVIDIA GPU to complete the projects. Most projects can run on any modern NVIDIA GPU. The course also has a DirectX RayTracing project that requires a GPU capable of RayTracing. These pages provide instructions for step your computer correctly for class projects.
+CIS 5650 requires access to an NVIDIA GPU to complete the projects. Most projects can run on any modern NVIDIA GPU. The course also has a DirectX RayTracing project that requires a GPU capable of RayTracing. These pages provide instructions for step your computer correctly for class projects.
 
 ### Requirements
 

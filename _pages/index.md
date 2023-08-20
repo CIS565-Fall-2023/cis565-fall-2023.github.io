@@ -160,7 +160,8 @@ Please visit the [COVID-19](https://www.seas.upenn.edu/coronavirus/) for informa
 All former TAs have helped shape this course:
 
 |---|---|---|
-| [Janine Liu](https://www.janineliu.com/) | [Liam Dugan](http://liamdugan.com/) | |
+| [Shubham Sharma](https://www.linkedin.com/in/codeshubham/) | [Rachel Gu](https://www.linkedin.com/in/rgu/) | |
+| [Janine Liu](https://www.janineliu.com/) | [Liam Dugan](http://liamdugan.com/) | [Wayne Wu](https://www.wuwayne.com) |
 | [Hannah Bollar](http://hannahbollar.com/)   | [Youssef Victor](http://youssefvictor.com/)        | [Ziad Ben Hadj-Alouane](https://github.com/ziedbha)  |
 | [Ottavio Hartman](http://ottav.io/)         | [Yash Vardhan](https://github.com/yashv28)         | [Austin Eng](http://austin-eng.co/)                  |
 | [Kaixiang Miao](http://miaokaixiang.com/)   | [Shuai Shao (Shrek)](https://shrekshao.github.io/) | [Gary Li](http://likangning93.wixsite.com/home)      |

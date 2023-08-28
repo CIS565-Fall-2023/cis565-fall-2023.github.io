@@ -134,7 +134,8 @@ Office Hours:
 ## Grading
 
 * Projects: 50%
-* Final Project: 50%
+* Final Project: 45%
+* Participation: 5%
 
 ## Academic Integrity
 

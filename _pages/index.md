@@ -60,13 +60,14 @@ For a course more focused on GPU architecture without graphics, see Joe Devietti
 
 ## Lecturers
 
+Changes to office hour schedule will be made on the CIS 5650 Calendar and notified through Class Forum.
+
 ### [Wayne Wu](https://www.linkedin.com/in/wayne-wu/){:target="_blank"} waynewu@seas.upenn.edu
 
 Office Hours:
-* In-Person: TBD
-* Online by appointment (email me)
-
-Changes to office hour schedule will be made on the CIS 5650 Calendar and notified through Class Forum.
+* In-Person: 30 mins after class
+* Online: Tuesday & Thursday 10 - 11AM
+* By appointment (email me)
 
 ![Wayne Wu](/assets/images/headshots/wayne_wu.jpg){:class="img-headshots"}
 
@@ -83,7 +84,7 @@ Office Hours:
 
 Office Hours:
 
-* TBD
+* In-Person: Saturday 2 - 5PM in SIG Lab
 
 ![Chang Liu](/assets/images/headshots/chang_liu.jpg){:class="img-headshots"}
 
@@ -91,9 +92,17 @@ Office Hours:
 
 Office Hours:
 
-* TBD
+* In-Person: Monday & Wednesday 1 - 3PM in SIG Lab
 
 ![Shutong Wu](/assets/images/headshots/shutong_wu.jpg){:class="img-headshots"}
+
+### [Shixuan Fang](https://www.linkedin.com/in/shixuan-fang-4aba78222/){:target="_blank"} shixuanf@seas.upenn.edu
+
+Office Hours:
+
+* In-Person: Tuesday & Thursday 1 - 3PM in SIG Lab
+
+![Shixuan Fang](/assets/images/headshots/shixuan_fang.jpg){:class="img-headshots"}
 
 ## Course Advisor
 

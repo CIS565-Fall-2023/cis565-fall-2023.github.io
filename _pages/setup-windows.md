@@ -45,7 +45,7 @@ This guide assumes that you have admin access to your computer.
                 * Windows 10 SDK (10.0.22000.0)
                 * Windows 10 SDK (10.0.20348.0)
 5. Install Nsight Compute, Nsight Graphics, and Nsight Systems from [https://developer.nvidia.com/nsight-tools-visual-studio-integration](https://developer.nvidia.com/nsight-tools-visual-studio-integration).
-6. Install [**CUDA 11**](https://developer.nvidia.com/cuda-downloads) (minimum version 10.2).
+6. Install the latest version of [**CUDA**](https://developer.nvidia.com/cuda-downloads) (minimum version 11.6).
     * Use the `Custom Installation` and select only `CUDA` (do not install the display driver and other components).
     ![cuda-11-custom-installation](/assets/images/screenshots/cuda-11-custom-installation.jpg)
 7. Install [**CMake**](http://www.cmake.org/download/). Windows binaries are under `Binary distributions`.

@@ -66,7 +66,7 @@ Changes to office hour schedule will be made on the CIS 5650 Calendar and notifi
 
 Office Hours:
 * In-Person: 30 mins after class
-* Online: Tuesday & Thursday 10 - 11AM
+* Online: Tuesday & Thursday 10 - 11AM ([Google Meet Link](https://meet.google.com/rhk-mgrc-eaj))
 * By appointment (email me)
 
 ![Wayne Wu](/assets/images/headshots/wayne_wu.jpg){:class="img-headshots"}

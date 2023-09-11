@@ -54,7 +54,7 @@ For a course more focused on GPU architecture without graphics, see Joe Devietti
 ## Github, Schedule, Class Forum, and LinkedIn
 
 * [**Github**](https://github.com/CIS565-Fall-2023){:target="_blank"}: fork your repos from here
-* **Ed Discussions**{:target="_blank"}: Class forum
+* [**Ed Discussions**](https://edstem.org/us/courses/43979/discussion/): Class forum
   * Note: Ed Discussions requires being registered for the class for default access. If you need access for auditing, please reach out to the instructors.
 * [**LinkedIn Group**](https://www.linkedin.com/groups/6540935/){:target="_blank"}: for networking with current and previous course students
 

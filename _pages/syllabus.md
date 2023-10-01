@@ -7,7 +7,7 @@ hide_description: true
 permalink: /syllabus/
 ---
 
-## [Schedule (Tentative)](https://onedrive.live.com/embed?resid=A6B78147D66DD722%2196838&authkey=!AFtbWq3hd7SihU8&em=2){:target="_blank"} (Open in new tab)
+## [Schedule](https://onedrive.live.com/embed?resid=A6B78147D66DD722%2196838&authkey=!AFtbWq3hd7SihU8&em=2){:target="_blank"} (Open in new tab)
 
 <iframe width="1200" height="900" frameborder="5" scrolling="yes" src="https://onedrive.live.com/embed?resid=A6B78147D66DD722%2196838&authkey=!AFtbWq3hd7SihU8&em=2&wdAllowInteractivity=False&Item='Schedule'!A1%3AF47&wdInConfigurator=True"></iframe>
 

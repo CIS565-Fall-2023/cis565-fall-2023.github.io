@@ -46,10 +46,10 @@ menu:
     url:               /syllabus/
   - title:             GitHub - Course Projects
     url:               https://github.com/CIS565-Fall-2023/
-  # - title:             Student Work
-  #   url:               /projects/
-  # - title:             Ed Discussion - Class Forum
-  #   url:               https://edstem.org/us/courses/28083/discussion/
+  - title:             Student Work
+    url:               /projects/
+  - title:             Ed Discussion - Class Forum
+    url:               https://edstem.org/us/courses/43979/discussion/
   - title:             Hardware and Software Setup
     url:               /setup/
   - title:             Previous Semesters

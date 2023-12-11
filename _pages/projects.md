@@ -24,7 +24,7 @@ permalink: /projects/
 ![team-5.gif](/assets/images/projects/team-5.gif){:class="img-final-projects"}
 * [**Anime4K - Video Upscaling & Denoising for WebGPU**](https://github.com/Anime4KWebBoost/Anime4K-WebGPU) -- [Ruijun(Daniel) Zhong](https://github.com/DanielZhong), [Yuanqi Wang](https://github.com/plasmas), [Tong Hu](https://github.com/TongHuoAo)
 
-![team-6.gif](/assets/images/projects/team-6.gif){:class="img-final-projects"}
+![team-6.gif](https://github.com/CIS565-Fall-2023/cis565-fall-2023.github.io/assets/31180310/fecebf29-1243-48ad-a53f-5ce6cca705cb){:class="img-final-projects"}
 * [**GPU-Accelerated Soft Body Simulation in CUDA**](https://github.com/GrahamZen/Soft-Body-Simulation-CUDA) -- [Gehan Zheng](https://github.com/GrahamZen), [Hanting Xu](https://github.com/HantingXu)
 
 ![team-7.png](/assets/images/projects/team-7.png){:class="img-final-projects"}

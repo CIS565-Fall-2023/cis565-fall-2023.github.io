@@ -30,7 +30,7 @@ permalink: /projects/
 ![team-7.png](/assets/images/projects/team-7.png){:class="img-final-projects"}
 * [**Mega Minecraft**](https://github.com/AdityaGupta1/mega-minecraft) -- [Aditya Gupta](https://github.com/AdityaGupta1), [Helena Zhang](https://github.com/helenazzzzz), [Alan Qiao](https://github.com/Alan-Qiao)
 
-![team-8.png](/assets/images/projects/team-8.png){:class="img-final-projects"}
+![team-8.gif](/assets/images/projects/team-8.gif){:class="img-final-projects"}
 * [**Real-time Snow Accumulation Simulation on Terrain in WebGPU**](https://github.com/Cryszzz/CIS-5650-Final-Project) -- [Jason Li](https://github.com/jailea), [Keyu Lu](https://github.com/uluyek), [Xiaoxiao Zou](https://github.com/Cryszzz)
 
 ![team-9.png](/assets/images/projects/team-9.png){:class="img-final-projects"}

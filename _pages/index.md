@@ -13,6 +13,8 @@ permalink: /
 [![team-8.gif](/assets/images/previous_projects/team-8.jpg){:class="img-projects"}](https://cis565-fall-2022.github.io/projects/)
 [![team-9.gif](/assets/images/previous_projects/team-9.gif){:class="img-projects"}](https://cis565-fall-2022.github.io/projects/)
 
+## Click Here for [CIS 5650 Fall 2024](https://cis5650-fall-2023.github.io/)
+
 ## Course Announcements
 
 ### 2023-08-13: Registration for CIS 5650 or if you are facing issues

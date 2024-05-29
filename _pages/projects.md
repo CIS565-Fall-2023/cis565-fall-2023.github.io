@@ -21,7 +21,7 @@ permalink: /projects/
 ![team-4.png](/assets/images/projects/team-4.png){:class="img-final-projects"}
 * [**Real-time Volumetric Cloud Rendering in Vulkan**](https://github.com/YueZhang1027/CIS5650-Final-Project-Frostnova) -- [Janet Wang](https://github.com/xchennnw), [Xinyu Niu](https://github.com/xinyuniu123), [Yue Zhang](https://github.com/YueZhang1027)
 
-![team-5.gif](https://drive.google.com/uc?export=view&id=1XpdozjclGKwBu45OJn3IVRkVP_aMSwMx){:class="img-final-projects"}
+![team-5.gif](/assets/images/projects/team-5.gif){:class="img-final-projects"}
 * [**Anime4K - Video Upscaling & Denoising for WebGPU**](https://github.com/Anime4KWebBoost/Anime4K-WebGPU) -- [Ruijun(Daniel) Zhong](https://github.com/DanielZhong), [Yuanqi Wang](https://github.com/plasmas), [Tong Hu](https://github.com/TongHuoAo)
 
 ![team-6.gif](https://github.com/CIS565-Fall-2023/cis565-fall-2023.github.io/assets/31180310/fecebf29-1243-48ad-a53f-5ce6cca705cb){:class="img-final-projects"}
